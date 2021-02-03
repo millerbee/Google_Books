@@ -1,0 +1,59 @@
+.search {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 10px;
+  }
+
+  .form-group {
+    width: 20%;
+  }
+  
+  input[type="submit"] {
+    padding: 5px;
+    background-color: transparent;
+    color: black;
+    border: 1px solid black;
+    width: 80px;
+    margin-left: 5px;
+    cursor: pointer;
+  }
+  
+  input[type="submit"]:hover {
+    background-color: #282c34;
+    color: antiquewhite;
+  }
+  
+  .search > input[type="text"]{
+    width: 25%;
+    min-width: 170px;
+  }
+  
+  .navbar-brand {
+    font-size: 40px;
+    font-family: 'Overlock SC', cursive;
+     
+}
+
+.navbar-header {
+  height: 120px;
+  
+}
+
+.navbar-nav {
+  margin-bottom: 0;
+  width: auto;  
+}
+
+.navbar a{
+  font-family: Verdana !important;   
+  margin-top: 20px;
+  font-size: 20px;
+  color: white;
+  
+}
+
+.navbar {
+  margin-bottom: 0;
+}

@@ -1,0 +1,39 @@
+
+  .nav-link{
+    padding: .7em;
+    font-size: 25px;
+    font-family: 'PT Serif', serif;
+    letter-spacing: 1px;
+    color: #e4c89c !important; 
+    
+     
+}
+
+.navbar-header {
+  height: 120px;
+  
+}
+
+.navbar-nav {
+  margin-left: 60vw;
+  width: auto;  
+}
+
+.text-brand{
+  font-family: 'PT Serif', serif; 
+  margin-top: 20px;
+  font-size: 24px;
+  color: #e4c89c;
+  letter-spacing: .5px;
+}
+
+.navbar {
+  margin-bottom: 0 !important;  
+  height: 100px !important;  
+}
+
+#mybooks {
+  padding-right: 10px;
+}
+
+

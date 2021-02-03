@@ -1,0 +1,16 @@
+body {
+    background-image: url(../components/images/home.JPG);
+    background-size: cover;
+}
+
+.form {
+    margin-top: 15vw;
+    width: 20vw;
+    margin-left: 12vw;
+   
+
+}
+
+/* .container{
+    background-image: url(../components/images/home.JPG);
+  } */
